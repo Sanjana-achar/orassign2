@@ -1,0 +1,32 @@
+{
+  "name": "my-node-api",
+  "version": "1.0.0",
+  "description": "A basic node.js API using express.js for handling author authentication,registration and blog management",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sanjana-achar/my-node-API from express.js.git"
+  },
+  "keywords": [
+    "[\"Node.js\"",
+    "\"Express.js\"",
+    "\"API\"",
+    "\"Authentication\"",
+    "\"Registration\"",
+    "\"Blog",
+    "managemnt\"]"
+  ],
+  "author": "Sanjana acharsanjana895@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanjana-achar/my-node-API from express.js/issues"
+  },
+  "homepage": "https://github.com/Sanjana-achar/my-node-API from express.js#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
